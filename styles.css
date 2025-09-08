@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&display=swap');
+
+header {
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    background-color: #58C5A3;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    margin-right: 151px;
+}
+
+
+.logo {
+    width: 151px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    float: left;
+}
+
+
+body {
+    margin: 20px;
+    color: white;
+    background-color: #011640;
+    font-family: "Aoboshi One", serif;
+}
+
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+
+nav {
+    background-color: #2A828C;
+    height: 46px;
+    border-bottom: 2px solid white;
+    text-align: right;
+    padding-top: 17px;
+}
+
+
+main {
+    margin-top: 20px;
+    background-color: #005B94;
+    width: 50%;
+    padding: 10px;
+}
+
+
+aside {
+    float: right;
+    margin-top: -238px;
+    height: 721px;
+}
+
+
+p {
+    line-height: 1.3;
+    padding-left: -10px;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.img1 {
+    width: 850px;
+    height: 352px;
+    background-color: #226B73;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+.img2 {
+    width: 850px;
+    height: 352px;
+    background-color: #226B73;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    height: 46px;
+    background-color: #226B73;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}   
+
+
+
