@@ -14,6 +14,16 @@ h1 {
 }
 
 
+h2 {
+    font-size: 20px;
+}
+
+
+h3 {
+    font-size: 16px;
+}
+
+
 .logo {
     width: 151px;
     height: auto;
@@ -63,7 +73,7 @@ main {
 
 aside {
     float: right;
-    margin-top: -238px;
+    margin-top: -236px;
     height: 721px;
 }
 
@@ -80,7 +90,7 @@ img {
 }
 
 
-.img1 {
+.imgs1 {
     width: 850px;
     height: 352px;
     background-color: #226B73;
@@ -89,9 +99,9 @@ img {
 }
 
 
-.img2 {
+.imgs2 {
     width: 850px;
-    height: 352px;
+    height: 416px;
     background-color: #226B73;
     padding: 10px;
     margin-top: 20px;
@@ -108,4 +118,7 @@ footer {
 }   
 
 
-
+.activities-images {
+    float: right;
+    height: 892px;
+}
